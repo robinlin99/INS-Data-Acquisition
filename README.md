@@ -1,3 +1,3 @@
 # INS Data Acquisition
 
-Reads accelerometer, gyroscope, and magnetometer data from Arduino for processing in MATLAB. 
+2017 Research Project at York University. Reads accelerometer, gyroscope, and magnetometer data from Arduino for processing in MATLAB. 
